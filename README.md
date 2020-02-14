@@ -1,2 +1,5 @@
-# scientific-modelling
-Scientific modelling 6 semester in bmstu
+# Моделирование; МГТУ; 6 семестр
+
+## Лабораторные работы
+
+- :one: Вычислительные методы
